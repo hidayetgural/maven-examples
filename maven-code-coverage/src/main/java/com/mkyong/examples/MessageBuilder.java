@@ -12,7 +12,7 @@ public class MessageBuilder {
 
         } else {
 
-            result.append("Hello " + name);
+            result.append("merhaba canım" + name);
 
         }
         return result.toString();
